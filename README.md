@@ -1,4 +1,4 @@
-# mezo [![Build Status](https://img.shields.io/travis/jjperezaguinaga/keybase-sign/master.svg?style=flat-square)](https://travis-ci.org/jjperezaguinaga/keybase-sign)
+# mezo [![Build Status](https://img.shields.io/travis/jjperezaguinaga/keybase-sign/master.svg?style=flat-square)](https://travis-ci.org/tomguim/mezo)
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
 
@@ -17,10 +17,6 @@ $ npm install node-fetch --save
 $ cd mezo
 $ node sign.js
 ```
-
-## Related
-
-[E.nigma](https://github.com/jjperezaguinaga/e.nigma.pw) - 🔐 e.nigma.pw / Encryption toolbox utility
 
 ## License
 
