@@ -1,6 +1,6 @@
 {
-  "name": "sign",
-  "version": "2.0.0",
+  "name": "mezo",
+  "version": "1.0.0",
   "description": "Sign a message given a private key",
   "main": "lib/index.js",
   "scripts": {
