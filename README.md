@@ -1,8 +1,8 @@
-# mezo [![Build Status](https://img.shields.io/travis/jjperezaguinaga/keybase-sign/master.svg?style=flat-square)](https://travis-ci.org/tomguim/mezo)
+# mezo [![Build Status](https://img.shields.io/travis/tomguim/mezo/master.svg?style=flat-square)](https://travis-ci.org/tomguim/mezo)
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
 
-🔑  Using kbpgp to sign messages with on a private key
+🔑  File -> Hex -> Signed with Keybase PGP -> Hex -> Ethereum Blockchain
 
 ## Install
 
