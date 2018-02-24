@@ -9,6 +9,7 @@
 ```bash
 $ npm install keybase-sign --save
 $ npm install node-fetch --save
+$ npm install
 ```
 
 ## Usage
