@@ -1,19 +1,19 @@
 const sign = require('keybase-sign')
 var fs = require('fs');
 
-var key = fs.readFileSync('key.txt');
-var privatekey = key.toString('ascii');
+var e = fs.readFileSync('key.txt');
+var a = e.toString('ascii');
 
-var pass = fs.readFileSync('password.txt');
-var password = pass.toString('ascii');
+var f = fs.readFileSync('file.jpeg');
+var b = f.toString('hex');
 
-var im = fs.readFileSync('file.jpeg');
-var image = im.toString('hex');
+var g = fs.readFileSync('password.txt');
+var c = g.toString('ascii');
 
 try {
-  sign(privatekey, image, password).then(sig => {
-    var sig = sig
-    console.log(sig)
+  sign(a, b, c).then(d => {
+    var d = d
+    console.log(d)
   })
 } catch(err) {
     console.log('There was an error signing', err)
