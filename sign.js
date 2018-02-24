@@ -1,6 +1,5 @@
 const sign = require('keybase-sign')
 var fs = require('fs');
-var fs = require('fs');
 
 var key = fs.readFileSync('key.txt');
 var privatekey = key.toString('ascii');
