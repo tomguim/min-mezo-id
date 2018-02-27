@@ -2,7 +2,15 @@
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
-🔑  File -> Hex -> Signed with Keybase PGP -> Hex -> Ethereum Blockchain
+🔑  Create Keybase
+
+💰  Create Ethereum Wallet
+
+📸  Take Photo
+
+📡  Image -> Hex -> Signed with Keybase PGP -> Swarm
+
+🛰️  Swarm Hash -> Hex -> Ethereum Blockchain
 
 ![mezo flag](https://raw.githubusercontent.com/tomguim/mezo/master/file.jpg)
 
