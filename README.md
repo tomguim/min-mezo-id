@@ -10,7 +10,7 @@
 
 📡  Image -> Hex -> Signed with Keybase PGP -> Swarm
 
-🛰️  Swarm Hash -> Hex -> Ethereum Blockchain
+🛰️  Swarm Hash -> Signed with Keybase PGP -> Hex -> Ethereum Blockchain
 
 ![mezo flag](https://raw.githubusercontent.com/tomguim/mezo/master/file.jpg)
 
