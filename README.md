@@ -15,6 +15,7 @@ $ npm install
 ```bash
 $ cd mezo
 $ node sign.js
+$ node creatWallet.js
 ```
 
 ## License
