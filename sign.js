@@ -16,7 +16,7 @@ var pkey = fs.readFileSync('pgpkey.txt')
 var pgpkey = pkey.toString('ascii')
 var pass = fs.readFileSync('pgppass.txt')
 var pgppass = pass.toString('ascii')
-var im = fs.readFileSync('file.jpeg')
+var im = fs.readFileSync('file.jpg')
 var image = im.toString('hex')
 
 // From Wallet Generation
