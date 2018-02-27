@@ -4,7 +4,7 @@
 
 🔑  Create Keybase
 
-💰  Create Ethereum Wallet
+⚖️  Create Ethereum Wallet
 
 📸  Take Photo
 
