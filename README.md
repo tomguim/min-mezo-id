@@ -14,16 +14,16 @@
 
 | Public  | Private |
 | ------------- | ------------- |
-| Name  | Name  |
-| Image  | Image  |
-| Keybase.io URL  | Keybase.io URL  |
-| ETH Address  | ETH Address  |
-| PGP Public Key  | ETH Private Key  |
-| Swarm File Hash  | ETH Seed  |
-| ETH TxID of Signed Swarm File Hash  | ETH Password  |
-|   | PGP Private Key  |
-|   | Swarm File Hash  |
-|   | ETH TxID of Signed Swarm File Hash  |
+| Name ✔️  | Name ✔️  |
+| Image ✔️  | Image ✔️  |
+| Keybase.io URL ✔️  | Keybase.io URL ✔️  |
+| ETH Address ✔️  | ETH Address ✔️  |
+| PGP Public Key ✔️  | ETH Private Key ✔️  |
+| Swarm File Hash ✔️  | ETH Seed ✔️  |
+| ETH TxID of Signed Swarm File Hash ❌  | ETH Password ✔️  |
+|   | PGP Private Key ✔️  |
+|   | Swarm File Hash ✔️  |
+|   | ETH TxID of Signed Swarm File Hash ❌  |
 
 ![mezo flag](https://raw.githubusercontent.com/tomguim/mezo/master/file.jpg)
 
