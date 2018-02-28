@@ -12,23 +12,18 @@
 
 🛰️  Swarm Hash -> Signed with Keybase PGP -> Hex -> Ethereum Blockchain
 
-### Public
-Create PDF
-Name
-Keybase.io URL
-Image
-ETH Address
-PGP Public Key
-Swarm File Hash/ETH TxID of Signed Swarm File Hash
-
-### Private
-Create PDF
-Name
-Keybase.io URL
-Image
-ETH Address/Eth Private Key/ETH Seed/ETH Password
-PGP Public Key/PGP Private Key
-Swarm File Hash/ETH TxID of Signed Swarm File Hash
+| Public  | Private |
+| ------------- | ------------- |
+| Name  | Name  |
+| Image  | Image  |
+| Keybase.io URL  | Keybase.io URL  |
+| ETH Address  | ETH Address  |
+| PGP Public Key  | ETH Private Key  |
+| Swarm File Hash  | ETH Seed  |
+| ETH TxID of Signed Swarm File Hash  | ETH Password  |
+|   | PGP Private Key  |
+|   | Swarm File Hash  |
+|   | ETH TxID of Signed Swarm File Hash  |
 
 ![mezo flag](https://raw.githubusercontent.com/tomguim/mezo/master/file.jpg)
 
