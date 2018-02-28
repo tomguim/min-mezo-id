@@ -38,7 +38,7 @@ $ npm install
 
 ```bash
 $ cd mezo
-$ node creatWallet.js
+$ node createWallet.js
 $ node sign.js
 ```
 
