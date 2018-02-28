@@ -2,7 +2,7 @@
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
-🔑  Create Keybase
+🔑  Create Keybase PGP
 
 ⚖️  Create Ethereum Wallet
 
@@ -37,9 +37,43 @@ $ npm install
 
 ## Usage
 
+### From Scratch
+
+#### Create a new PGP Key
+```bash
+$ cd mezo
+$ node createPGP.js
+```
+
+#### Create a new Ethereum Wallet
 ```bash
 $ cd mezo
 $ node createWallet.js
+```
+
+#### Create ID
+```bash
+$ cd mezo
+$ node sign.js
+```
+
+### For those with Crypto
+
+#### Use your own PGP Key
+```bash
+$ cd mezo
+$ node createPGP.js
+```
+
+#### Use your own Ethereum Wallet
+```bash
+$ cd mezo
+$ node createWallet.js
+```
+
+#### Create ID
+```bash
+$ cd mezo
 $ node sign.js
 ```
 
