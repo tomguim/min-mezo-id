@@ -12,7 +12,7 @@
 
 🛰️  Swarm Hash -> Signed with Keybase PGP -> Hex -> Ethereum Blockchain
 
-## Public
+### Public
 Create PDF
 Name
 Keybase.io URL
@@ -21,7 +21,7 @@ ETH Address
 PGP Public Key
 Swarm File Hash/ETH TxID of Signed Swarm File Hash
 
-## Private
+### Private
 Create PDF
 Name
 Keybase.io URL
