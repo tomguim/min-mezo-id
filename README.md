@@ -18,9 +18,10 @@
 | Image ✔️  | Image ✔️  |
 | Keybase.io URL ✔️  | Keybase.io URL ✔️  |
 | ETH Address ✔️  | ETH Address ✔️  |
-| PGP Public Key ❌  | ETH Private Key ✔️  |
-| Swarm File Hash ✔️  | ETH Seed ✔️  |
-| ETH TxID of Signed Swarm File Hash ❌  | ETH Password ✔️  |
+| PGP Fingerprint ❌  | ETH Private Key ✔️  |
+| PGP Public Key ❌  | ETH Seed ✔️ ✔️  |
+| Swarm File Hash ✔️  | ETH Password ✔️  |
+| ETH TxID of Signed Swarm File Hash ❌  | PGP Fingerprint ✔️  |
 |   | PGP Public Key ❌  |
 |   | PGP Private Key ❌  |
 |   | Swarm File Hash ✔️  |
