@@ -12,6 +12,22 @@
 
 🛰️  Swarm Hash -> Signed with Keybase PGP -> Hex -> Ethereum Blockchain
 
+Create PDF
+Name
+Keybase.io URL
+Image
+ETH Address
+PGP Public Key
+Swarm File Hash/ETH TxID of Signed Swarm File Hash
+
+Create PDF
+Name
+Keybase.io URL
+Image
+ETH Address/Eth Private Key/ETH Seed/ETH Password
+PGP Public Key/PGP Private Key
+Swarm File Hash/ETH TxID of Signed Swarm File Hash
+
 ![mezo flag](https://raw.githubusercontent.com/tomguim/mezo/master/file.jpg)
 
 ## Install
