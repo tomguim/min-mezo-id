@@ -75,7 +75,7 @@ Deselect "0x and comma separator for output"
 Send the Hex in the data box of an Ethereum transaction to 0xe63bFc1aA89FDF163Bba7f1D4E4a6D4d604E1710
 
 The end result should look like this:
-![ID](https://raw.githubusercontent.com/tomguim/mezo/master/ID.JPG0
+![ID](https://raw.githubusercontent.com/tomguim/mezo/master/ID.JPG)
 
 ## License
 
