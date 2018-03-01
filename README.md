@@ -60,22 +60,19 @@ $ node sign.js
 ### For those with Crypto
 
 #### Use your own PGP Key
-```bash
-$ cd mezo
-$ node createPGP.js
-```
+Edit pgpkey.txt and insert your PGP Private Key
+Edit pgppass.txt and insert your PGP Private Key Password
 
 #### Use your own Ethereum Wallet
-```bash
-$ cd mezo
-$ node createWallet.js
-```
+Edit address.txt and insert your Ethereum Address
+Edit secret.txt and insert your Ethereum Private Key
 
 #### Create ID
-```bash
-$ cd mezo
-$ node sign.js
-```
+In the console log you should get a string. This is the swarm file hash.
+Sign the hash using the same PGP key previously used.
+Hex the signed hash using http://tomeko.net/online_tools/ascii.php?lang=en
+Deselect "0x and comma separator for output"
+Send the Hex in the data box of an Ethereum transaction to 0xe63bFc1aA89FDF163Bba7f1D4E4a6D4d604E1710
 
 ## License
 
